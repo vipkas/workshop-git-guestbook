@@ -1,4 +1,5 @@
 # Workshop Git Guest Book
 
-Fork the repository then add your github profile into `guests` directory. Send
-pull request.
+1. Fork the repository.
+2. Add your github profile into `guests` directory.
+3. Send Pull Request. 
