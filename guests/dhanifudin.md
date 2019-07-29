@@ -1,2 +1,1 @@
-name: Dian Hanifudin Subhi
-github: dhanifudin
+name: Dian Hanifudin Subhi github: dhanifudin
